@@ -1,11 +1,13 @@
-package com.DiplomaProject.Test;
+package com.DiplomaProject.Test.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
-
+//@ComponentScan({"com.DiplomaProject","com.Test"}) 扫描多个包的写法
+@ComponentScan("com.DiplomaProject")
 @SpringBootApplication
 public class TestApplication {
 	private  static final Logger LOG = LoggerFactory.getLogger(TestApplication.class);

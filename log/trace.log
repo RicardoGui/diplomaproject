@@ -1,5 +1,5 @@
-2022-01-12 11:52:10.283 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 12052 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 11:52:10.290 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 11:52:10.283 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 12052 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 11:52:10.290 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 11:52:11.329 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 11:52:11.343 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 11:52:11.344 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -9,9 +9,9 @@
 2022-01-12 11:52:11.761 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 11:52:11.914 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 11:52:11.933 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 11:52:11.945 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.544 seconds (JVM running for 3.513)
-2022-01-12 12:03:36.794 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 14980 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 12:03:36.800 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 11:52:11.945 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.544 seconds (JVM running for 3.513)
+2022-01-12 12:03:36.794 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 14980 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 12:03:36.800 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 12:03:37.947 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 12:03:37.956 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 12:03:37.957 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -21,9 +21,9 @@
 2022-01-12 12:03:38.230 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 12:03:38.383 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 12:03:38.405 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 12:03:38.417 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.278 seconds (JVM running for 3.014)
-2022-01-12 12:28:14.232 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 3984 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 12:28:14.236 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 12:03:38.417 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.278 seconds (JVM running for 3.014)
+2022-01-12 12:28:14.232 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 3984 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 12:28:14.236 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 12:28:15.317 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8880 (http)
 2022-01-12 12:28:15.329 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8880"]
 2022-01-12 12:28:15.330 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -33,14 +33,14 @@
 2022-01-12 12:28:15.603 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 12:28:15.744 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8880"]
 2022-01-12 12:28:15.762 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8880 (http) with context path ''
-2022-01-12 12:28:15.772 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.141 seconds (JVM running for 2.793)
-2022-01-12 12:28:15.775 INFO  com.DiplomaProject.Test.TestApplication           :17   [32m                  [0;39m 启动成功！！
-2022-01-12 12:28:15.776 INFO  com.DiplomaProject.Test.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8880
+2022-01-12 12:28:15.772 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.141 seconds (JVM running for 2.793)
+2022-01-12 12:28:15.775 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 12:28:15.776 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8880
 2022-01-12 12:28:19.596 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
 2022-01-12 12:28:19.597 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
 2022-01-12 12:28:19.599 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
-2022-01-12 13:16:23.914 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 9992 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 13:16:23.921 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 13:16:23.914 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 9992 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 13:16:23.921 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 13:16:24.831 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 13:16:24.841 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 13:16:24.842 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -50,11 +50,11 @@
 2022-01-12 13:16:25.178 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 13:16:25.308 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 13:16:25.326 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 13:16:25.335 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 1.934 seconds (JVM running for 2.535)
-2022-01-12 13:16:25.339 INFO  com.DiplomaProject.Test.TestApplication           :17   [32m                  [0;39m 启动成功！！
-2022-01-12 13:16:25.339 INFO  com.DiplomaProject.Test.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
-2022-01-12 20:10:09.650 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 11232 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 20:10:09.654 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 13:16:25.335 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 1.934 seconds (JVM running for 2.535)
+2022-01-12 13:16:25.339 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 13:16:25.339 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 20:10:09.650 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 11232 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 20:10:09.654 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 20:10:10.729 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 20:10:10.740 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:10:10.741 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -64,11 +64,11 @@
 2022-01-12 20:10:11.164 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 20:10:11.312 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:10:11.329 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 20:10:11.340 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.383 seconds (JVM running for 3.311)
-2022-01-12 20:10:11.344 INFO  com.DiplomaProject.Test.TestApplication           :17   [32m                  [0;39m 启动成功！！
-2022-01-12 20:10:11.344 INFO  com.DiplomaProject.Test.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080 
-2022-01-12 20:21:00.661 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 11040 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 20:21:00.666 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 20:10:11.340 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.383 seconds (JVM running for 3.311)
+2022-01-12 20:10:11.344 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 20:10:11.344 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 20:21:00.661 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 11040 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 20:21:00.666 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 20:21:01.713 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 20:21:01.723 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:21:01.724 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -78,11 +78,11 @@
 2022-01-12 20:21:02.012 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 20:21:02.250 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:21:02.268 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 20:21:02.279 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.273 seconds (JVM running for 3.027)
-2022-01-12 20:21:02.282 INFO  com.DiplomaProject.Test.TestApplication           :17   [32m                  [0;39m 启动成功！！
-2022-01-12 20:21:02.282 INFO  com.DiplomaProject.Test.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080 
-2022-01-12 20:21:42.220 INFO  com.DiplomaProject.Test.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 4488 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
-2022-01-12 20:21:42.228 INFO  com.DiplomaProject.Test.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 20:21:02.279 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.273 seconds (JVM running for 3.027)
+2022-01-12 20:21:02.282 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 20:21:02.282 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 20:21:42.220 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 4488 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 20:21:42.228 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
 2022-01-12 20:21:43.389 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
 2022-01-12 20:21:43.402 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:21:43.403 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
@@ -92,6 +92,92 @@
 2022-01-12 20:21:43.809 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
 2022-01-12 20:21:43.966 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
 2022-01-12 20:21:43.987 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-12 20:21:44.000 INFO  com.DiplomaProject.Test.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.344 seconds (JVM running for 3.022)
-2022-01-12 20:21:44.004 INFO  com.DiplomaProject.Test.TestApplication           :17   [32m                  [0;39m 启动成功！！
-2022-01-12 20:21:44.004 INFO  com.DiplomaProject.Test.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080 
+2022-01-12 20:21:44.000 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.344 seconds (JVM running for 3.022)
+2022-01-12 20:21:44.004 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 20:21:44.004 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 21:36:13.187 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 3648 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 21:36:13.192 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 21:36:14.196 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-01-12 21:36:14.205 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:36:14.205 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-01-12 21:36:14.206 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-01-12 21:36:14.297 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-01-12 21:36:14.297 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1035 ms
+2022-01-12 21:36:14.467 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-12 21:36:14.717 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:36:14.735 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-12 21:36:14.748 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.149 seconds (JVM running for 2.826)
+2022-01-12 21:36:14.751 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 21:36:14.752 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 21:36:52.567 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 21:36:52.567 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-01-12 21:36:52.569 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-01-12 21:44:20.689 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 12540 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 21:44:20.698 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 21:44:21.829 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-01-12 21:44:21.839 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:44:21.840 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-01-12 21:44:21.840 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-01-12 21:44:21.957 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-01-12 21:44:21.957 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1191 ms
+2022-01-12 21:44:22.223 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-12 21:44:22.374 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:44:22.396 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-12 21:44:22.412 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.425 seconds (JVM running for 3.172)
+2022-01-12 21:44:22.416 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 21:44:22.416 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 21:44:32.924 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 21:44:32.924 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-01-12 21:44:32.925 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2022-01-12 21:44:32.944 WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver :207  [32m                  [0;39m Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-01-12 21:46:11.127 INFO  com.DiplomaProject.Test.config.TestApplication           :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 16016 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 21:46:11.134 INFO  com.DiplomaProject.Test.config.TestApplication           :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 21:46:12.245 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-01-12 21:46:12.252 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:46:12.253 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-01-12 21:46:12.253 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-01-12 21:46:12.349 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-01-12 21:46:12.349 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1142 ms
+2022-01-12 21:46:12.520 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-12 21:46:12.676 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:46:12.693 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-12 21:46:12.708 INFO  com.DiplomaProject.Test.config.TestApplication           :61   [32m                  [0;39m Started TestApplication in 2.234 seconds (JVM running for 2.995)
+2022-01-12 21:46:12.711 INFO  com.DiplomaProject.Test.config.TestApplication           :17   [32m                  [0;39m 启动成功！！
+2022-01-12 21:46:12.712 INFO  com.DiplomaProject.Test.config.TestApplication           :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080
+2022-01-12 21:46:12.933 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 21:46:12.933 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-01-12 21:46:12.934 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2022-01-12 21:57:40.732 INFO  com.DiplomaProject.Test.config.TestApplication    :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 6056 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 21:57:40.738 INFO  com.DiplomaProject.Test.config.TestApplication    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 21:57:41.798 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-01-12 21:57:41.807 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:57:41.808 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-01-12 21:57:41.808 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-01-12 21:57:41.914 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-01-12 21:57:41.914 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1096 ms
+2022-01-12 21:57:42.202 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-12 21:57:42.377 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-01-12 21:57:42.396 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-12 21:57:42.409 INFO  com.DiplomaProject.Test.config.TestApplication    :61   [32m                  [0;39m Started TestApplication in 2.276 seconds (JVM running for 2.962)
+2022-01-12 21:57:42.414 INFO  com.DiplomaProject.Test.config.TestApplication    :17   [32m                  [0;39m 启动成功！！
+2022-01-12 21:57:42.414 INFO  com.DiplomaProject.Test.config.TestApplication    :18   [32m                  [0;39m 地址: 	http://127.0.0.1:8080 
+2022-01-12 21:57:47.354 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 21:57:47.355 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-01-12 21:57:47.355 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2022-01-12 22:03:37.506 INFO  com.DiplomaProject.Test.config.TestApplication    :55   [32m                  [0;39m Starting TestApplication using Java 1.8.0 on DESKTOP-8LBEEL8 with PID 9852 (C:\Users\Ricardo\Downloads\Test\target\classes started by Ricardo in C:\Users\Ricardo\Downloads\Test)
+2022-01-12 22:03:37.512 INFO  com.DiplomaProject.Test.config.TestApplication    :660  [32m                  [0;39m No active profile set, falling back to default profiles: default
+2022-01-12 22:03:38.506 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2022-01-12 22:03:38.515 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2022-01-12 22:03:38.516 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2022-01-12 22:03:38.517 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-01-12 22:03:38.616 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2022-01-12 22:03:38.616 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :289  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1037 ms
+2022-01-12 22:03:38.901 INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor  :181  [32m                  [0;39m Initializing ExecutorService 'applicationTaskExecutor'
+2022-01-12 22:03:39.045 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2022-01-12 22:03:39.066 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-12 22:03:39.076 INFO  com.DiplomaProject.Test.config.TestApplication    :61   [32m                  [0;39m Started TestApplication in 2.217 seconds (JVM running for 2.977)
+2022-01-12 22:03:39.080 INFO  com.DiplomaProject.Test.config.TestApplication    :19   [32m                  [0;39m 启动成功！！
+2022-01-12 22:03:39.080 INFO  com.DiplomaProject.Test.config.TestApplication    :20   [32m                  [0;39m 地址: 	http://127.0.0.1:8080 
+2022-01-12 22:03:43.897 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-12 22:03:43.898 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2022-01-12 22:03:43.899 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
